@@ -1,0 +1,19 @@
+{
+  "name": "devfbatch20b-pablo-elyd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloelyd/devfBatch20B-Pablo-Elyd.git"
+  },
+  "author": "Pablo Elyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloelyd/devfBatch20B-Pablo-Elyd/issues"
+  },
+  "homepage": "https://github.com/pabloelyd/devfBatch20B-Pablo-Elyd#readme"
+}
