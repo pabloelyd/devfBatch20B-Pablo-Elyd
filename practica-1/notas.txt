@@ -23,7 +23,7 @@ NO ES:
   - no es una libreria
 
 SI ES:
-  - Un entorno de ejecucion de Javascript fuera del navegador.
+  - Un entorno de ejecucion para Javascript fuera del navegador.
 
 * Esta formado por tecnologias como:
 
@@ -103,3 +103,5 @@ browser ò en node y depende de còmo el programador domine el flujo, para no bl
 Un cliente/consumidor, es un software que hace peticiones a un servidor para consumir los datos
 
 Un servidor, es un software que despacha peticiones de un cliente.
+
+:)
