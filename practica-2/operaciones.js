@@ -33,3 +33,4 @@ let resta = operaciones(10, 5, (num1, num2) => {
 });
 
 console.log(resta);
+
