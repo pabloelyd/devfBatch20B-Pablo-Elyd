@@ -40,12 +40,12 @@ async function ejemplo(){
     console.log(p2);
 }
 
-/*
+
 bulbasaur();
 pikachu();
-charizard();*/
-/*
+charizard();
+
 p.then((value) => {
     console.log("El valor que retorna la promesa es "+value);
-});*/
+});
 
